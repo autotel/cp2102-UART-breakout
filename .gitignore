@@ -1,0 +1,6 @@
+*.pdf
+/libraries/ESP32-Footprints/ESP3212_kiCAD.png
+*.bak
+
+.DS_Store
+datasheets/*.png

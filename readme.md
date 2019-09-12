@@ -1,0 +1,2 @@
+Breakout board for CP2102 USB to UART bridge, to aid the design of boards using this chip.
+This design hasn't been ever manufactured yet, but in theory you should be able to have it produced on any common aggregagor and have it working.
